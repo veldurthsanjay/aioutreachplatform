@@ -1,0 +1,13 @@
+[
+  {
+    "id": "9479f991-9e0e-43d6-95f3-e31505db37ca",
+    "campaignId": "a99b4fdd-5afa-4c25-83c7-18876ea04710",
+    "leadId": "9105c02e-c1b1-459d-a720-8e0c4d276bc2",
+    "channel": "whatsapp",
+    "body": "Hi Sanjay, I'm [Your Name] from SecureVitae. We help tech recruiters like you at [Your Company] instantly verify candidates, automate clearance matching, and shorten shortlisting by 60%. Would you be open to a quick 15-minute demo to see how we can streamline your hiring process?",
+    "status": "failed",
+    "createdAt": "2026-09-21T12:27:22.323Z",
+    "updatedAt": "2026-09-21T12:27:40.387Z",
+    "errorReason": "Meta WhatsApp Cloud API credentials (Access Token & Phone Number ID) not configured"
+  }
+]

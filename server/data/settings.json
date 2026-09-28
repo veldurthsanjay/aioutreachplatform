@@ -1,0 +1,8 @@
+{
+  "dailyEmailLimit": 50,
+  "dailyWhatsAppLimit": 50,
+  "delayBetweenMessagesSec": 5,
+  "aiTemperature": 0.7,
+  "autoClassifyReplies": true,
+  "stopFollowUpOnReply": true
+}

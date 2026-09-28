@@ -1,0 +1,15 @@
+{
+  "name": "ai-outreach-platform",
+  "version": "1.0.0",
+  "description": "Real AI Outreach Platform with React, Node.js, WebSockets and JSON storage",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -n \"SERVER,CLIENT\" -c \"blue,green\" \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "build": "npm run build --prefix server && npm run build --prefix client"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

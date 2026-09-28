@@ -1,0 +1,21 @@
+{
+  "ai": {
+    "status": "connected",
+    "provider": "openrouter",
+    "model": "google/gemini-2.5-flash",
+    "apiKeySet": true,
+    "lastTested": "2026-09-21T06:27:59.742Z"
+  },
+  "email": {
+    "status": "connected",
+    "provider": "smtp",
+    "senderEmail": "dnkn93044@gmail.com",
+    "senderName": "AI Outreach Team",
+    "apiKeySet": true,
+    "lastTested": "2026-09-21T06:33:46.532Z"
+  },
+  "whatsapp": {
+    "status": "not_connected",
+    "apiKeySet": false
+  }
+}
